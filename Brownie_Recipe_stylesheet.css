@@ -1,5 +1,7 @@
 #body{
     background-color: #F5E9E2;
+    margin:10px;
+    width: 100%;
 }
 
 #title1 h1{
@@ -7,7 +9,8 @@
     background-color: #AC7B84;
     border: 2px solid #563F1B;
     width: 50%;
-    margin: 10px;
+    margin: auto;
+    text-align: center;
 }
 
 #paragraph1{
@@ -15,7 +18,9 @@
     background-color: #F5E9E2;
     border: 2px solid #563F1B;
     width: 50%;
-    margin: 10px;
+    margin: auto;
+    text-align: center;
+    margin-top: 20px;
 }
 
 #title2{
@@ -23,7 +28,9 @@
     background-color: #AC7B84;
     border: 2px solid #563F1B;
     width: 50%;
-    margin: 10px;
+    margin: auto;
+    text-align: center;
+    margin-top: 20px;
 }
 
 #ingredients{
@@ -31,7 +38,8 @@
     background-color:#F5E9E2;
     border: 2px solid #563F1B;
     width: 50%;
-    margin: 10px;
+    margin: auto;
+    margin-top: 20px;
 }
 
 #title3{
@@ -39,7 +47,9 @@
     background-color: #AC7B84;
     border: 2px solid #563F1B;
     width: 50%;
-    margin: 10px;
+    margin: auto;
+    text-align: center;
+    margin-top: 20px;
 }
 
 #method{
@@ -47,11 +57,14 @@
     background-color: #F5E9E2;
     border: 2px solid #563F1B;
     width: 50%;
-    margin: 10px;
+    margin: auto;
+    margin-top: 20px;
 }
 
 #image{
     border: 2px solid #563F1B;
     width: 300;
-    margin: 10px;
+    margin: auto;
+    margin-top: 20px;
+    text-align: center;
 }
