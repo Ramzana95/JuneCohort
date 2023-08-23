@@ -1,0 +1,57 @@
+body{
+    width: 75%;
+    margin: auto;
+}
+
+
+nav ol{
+    list-style-type: none;
+    display: flex;
+    justify-content: center;
+}
+
+header nav ol li{
+    display: block;
+    padding: 10px 50px;
+}
+
+.card-container1{
+    border: 5px solid #b0c0bc;
+    display: flex;
+    background-color: #b0c0bc;
+     
+}
+
+.card-container1 img{
+    width: 100%;
+}
+
+#card1-text{
+    margin: 10px;
+    padding-top: none;
+}
+
+.card-container2{
+    margin-top: 10px;
+    border: 5px solid #b0c0bc;
+    display: flex;
+    background-color: #b0c0bc;
+    width: 100%;
+     
+}
+
+.card-container2 img{
+    width: 
+
+}
+
+#card2-text p{
+    padding-top: none;
+    width: auto;
+}
+
+#image2{
+    background-color: blue;
+    width: 30%;
+}
+
