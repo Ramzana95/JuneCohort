@@ -1,8 +1,5 @@
 /* The project is for  you to connect the js doms to make the search work so when you search for 
-items it returns only 1 of the cards and not all of them. 
-1. if empty, do nothing
-2. error message for numbers
-3. error message if that film is not in the list of films*/
+items it returns only 1 of the cards and not all of them.*/
 
 const body = document.body
 const button = document.getElementById("btn")
