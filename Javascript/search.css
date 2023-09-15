@@ -1,0 +1,10 @@
+.display{
+    display: block;
+
+}
+
+.dontDisplay{
+    display: none;
+}
+
+/* When we search for items, some items will be displayed whilst other items won't be displayed*/

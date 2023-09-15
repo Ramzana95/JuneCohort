@@ -9,11 +9,11 @@ DEFINES SUBSTRUCTURES OF A VARIABLE
 Objects are set out in braces e.g.:*/
 
 const car = {
-    name: "bmw",
+    name: "bmw", //this is a property
     colour: "black",
     year: 2015,
     model: ["1 series","m sport"]
-}
+}// ^ this is an example of an object
 console.log(car)
 
 /* Any website you buy things from contains objects. e.g.
