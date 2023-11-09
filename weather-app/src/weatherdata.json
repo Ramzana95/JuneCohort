@@ -1,0 +1,37 @@
+{
+    "coord":{"lon":-2.2374,"lat":53.4809},
+    "weather":[
+        {
+            "id":801,
+            "main":"Clouds",
+            "description":"few clouds",
+            "icon":"02d"
+        }
+    ],
+    "base":"stations",
+    "main":{
+        "temp":15.12,
+        "feels_like":14.88,
+        "temp_min":14.19,
+        "temp_max":16.92,
+        "pressure":1017,
+        "humidity":84
+    },
+    "visibility":10000,
+    "wind":{"speed":1.54,"deg":230},
+    "clouds":{"all":20},
+    "dt":1696250194,
+    "sys":{
+        "type":2,
+        "id":2002511,
+        "country":"GB",
+        "sunrise":1696227086,
+        "sunset":1696268714
+    },
+    "timezone":3600,
+    "id":2643123,
+    "name":"Manchester",
+    "cod":200
+}
+//These are just key:value pairs
+
