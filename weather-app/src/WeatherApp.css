@@ -43,6 +43,10 @@
     justify-content: center;
 }
 
+.my-input{
+    padding-left: 10px;
+}
+
 #city-name{
     display: flex;
     margin-left: 30%;
