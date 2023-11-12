@@ -49,7 +49,7 @@ function fetchData (inputValue){
   return (
     <div id = "main">
       <div id = "input">
-        <input className= 'my-input'
+        <input className = 'my-input'
           placeholder = "Enter City"
           onKeyDown = {handleInput}
         /> </div>      
