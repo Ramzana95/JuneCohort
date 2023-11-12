@@ -49,11 +49,10 @@ function fetchData (inputValue){
   return (
     <div id = "main">
       <div id = "input">
-        <input
-          placeholder = "    Enter City"
+        <input className='my-input'
+          placeholder = "Enter City"
           onKeyDown = {handleInput}
         /> </div>
-    
 
      <div id = "main1">
           <div id = "city-name">{ newData ? <h3>{newData.name}</h3> : <h3></h3>}</div>
