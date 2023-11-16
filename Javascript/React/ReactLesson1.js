@@ -176,6 +176,27 @@ export default App;
    can name files .js or .jsx - they both work the same
 
    npm start runs the index.js file
+
+   src file contains all the applications we need to run the app/website we are creating
+
+   in the terminal, whatever is last in the "Users/Ramzan/Desktop/JuneCohort" bit, is the folder you are 
+   currently in
+
+   ---------------------------------------------------------------------------------------------------------
+
+   If you had to pass in many pieces of info into a large number of card components, we would do something
+   called "mapping"
+
+   -- All it does is map a list of items into their specific places
+
+   -- "../" means get out of this current folder, go back to the parent folder that I'm in, / means access 
+   this folder and access this file etc
+
+
+   ----------------------------------------------------------------------------------------------------------
+
+
+   
 */
 
 

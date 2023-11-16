@@ -1,0 +1,56 @@
+body{
+    width: 50%;
+    margin: auto;
+}
+
+nav ul li{
+    list-style-type: none;
+    padding: 10px 15px;
+}
+
+nav ul{
+    display: flex;
+    justify-content: flex-end;
+}
+
+
+nav ul li a:hover{
+    border-bottom: 1px solid black;
+}
+
+.cardComponent{
+    width: 40%;
+    border: 1px solid black;
+    text-align: center;
+    border-radius: 10px;
+    background-color: blanchedalmond;
+}
+
+
+.cardComponent img{
+    width: 100%;
+    border-top-left-radius: 8px;
+    border-top-right-radius: 8px;
+}
+
+main{
+    border: 1px solid black;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+
+}
+
+main div{
+    margin: 10px;
+}
+
+aside{
+    width: 20%;
+    border: 1px solid black;
+    border-radius: 10px;
+    margin-right: 10px;
+    padding: 10px;
+
+
+}

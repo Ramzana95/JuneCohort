@@ -1,13 +1,18 @@
 import React from 'react';
 import ReactDOM from 'react-dom/client';
 import './index.css';
-import App from './App';
+// import App from './components/ReactApp';
+// import App from './components/mapping/App';
+// import ReactStatesApp from './components/ReactStates/ReactStatesApp';
+// import ReactStatesApp2 from './components/ReactStates/ReactStatesApp2';
+// import ReactStatesHW from './components/ReactStates/ReactStatesHW';
+// import UseEffectHook from './components/useEffectHook/UseEffectHook';
 
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
   <React.StrictMode>
-    <App />
+    < />
   </React.StrictMode>
 );
 
